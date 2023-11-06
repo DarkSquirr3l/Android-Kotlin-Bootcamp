@@ -1,4 +1,4 @@
-package chapter2
+package KotlinBasics
 
 fun main() {
     println(1 + 1)
