@@ -1,4 +1,4 @@
-package KotlinBasics
+package a.kotlinBasics
 
 fun main() {
     println(1 + 1)
